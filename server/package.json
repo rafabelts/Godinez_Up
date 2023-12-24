@@ -1,0 +1,17 @@
+{
+  "name": "godinez_up_server",
+  "version": "1.0.0",
+  "description": "Financial manager for workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Financial",
+    "Manager",
+    "Assistant",
+    "Accounting"
+  ],
+  "author": "Rafael Beltran, Luis German, Jordi Ovando, Alejandra Gallegos",
+  "license": "ISC"
+}
